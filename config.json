@@ -1,0 +1,9 @@
+{
+	"suggest": {
+		"SUGGEST_CHANNEL": 1029037768128593960,
+		"SUGGEST_MODERATOR_ROLE": 1029028131362836520 
+	},
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	}
+}
